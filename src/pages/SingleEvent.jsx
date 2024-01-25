@@ -8,7 +8,7 @@ export default function SingleEvent() {
           <div>Information d evenemnt</div>
         </div>
         <div>
-          Table principale Applica
+          <h1 className="text-xl text-white">Table principale Application</h1>
         </div>
       </div>
     </>
