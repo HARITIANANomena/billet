@@ -41,3 +41,12 @@
   width: 33%;
   height: 550px;
 }
+
+/*STYLE SINGLEPAGE*/
+.ctn_presentation_evenement {
+  height: 375px;
+}
+
+.ctn_pict {
+  height: 35%;
+}
